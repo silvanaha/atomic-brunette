@@ -3,11 +3,11 @@
 
 def myclass():
     """fjdskd."""
-    print("hello world")
+    print("hello world. hello earth.")
 
 
 def myname(arg1):
-    """fjdskd."""
+    """fjdskddsfdfs."""
     pass
 
 
